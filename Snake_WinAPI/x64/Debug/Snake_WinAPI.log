@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Евген\Desktop\HNURE\Спро\DLL\Snake_WinAPI\logic.h(175,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Евген\Desktop\HNURE\Спро\DLL\Snake_WinAPI\logic.h(175,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Евген\Desktop\HNURE\Спро\DLL\Snake_WinAPI\main.cpp(35,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Евген\Desktop\HNURE\Спро\DLL\Snake_WinAPI\main.cpp(47,29): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Snake_WinAPI.vcxproj -> C:\Users\Евген\Desktop\HNURE\Спро\DLL\Snake_WinAPI\x64\Debug\Snake_WinAPI.exe
